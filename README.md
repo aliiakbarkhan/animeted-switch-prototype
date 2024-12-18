@@ -1,5 +1,7 @@
 # Animated Switch Prototype 🔄⚡
-<img src = "Screenshots/Screenshot 2024-10-18 082743.png" width="100%" height="auto"/>
+
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dcsm2x8-bbf27e63-7a2e-4419-a509-10d647ac8cdc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGNzbTJ4OC1iYmYyN2U2My03YTJlLTQ0MTktYTUwOS0xMGQ2NDdhYzhjZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hh9wSkuhN8ipVF7Lbq8W7zenMD785GnyNJZRn-x5Npo" />
+
 ## Overview ✨
 This repository contains the Figma prototype of a **smooth and responsive animated switch**. This UI component is designed for toggling options in a user-friendly and visually appealing manner. The animation is fluid, adding a touch of elegance to any design project.
 
