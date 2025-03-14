@@ -39,7 +39,8 @@ https://github.com/user-attachments/assets/39da2e2b-9ca4-4a24-aca7-7ac0a716e04f
 - Add interactive components for real-time switching functionality in demos.
 
 ## License 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ## Contributing 
 This project is not open for contributions at the moment. Feedback is welcome!
